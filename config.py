@@ -1,6 +1,6 @@
 LANGUAGES = {
     'en': {
-        'model': 'en_core_web_sm',
+        'model': 'en_core_web_sm-3.4.1',
         'keywords': {
             'course': ['course', 'class', 'lecture'],
             'exam': ['exam', 'test', 'midterm', 'final'],
