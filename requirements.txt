@@ -5,4 +5,4 @@ openpyxl
 scikit-learn
 fuzzywuzzy
 python-Levenshtein
-en-core-web-sm
+en-core-web-sm-3.4.1
